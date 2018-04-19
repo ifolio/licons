@@ -1,5 +1,7 @@
 # Licons
 Light and clean svg icons.
+Website: https://licons.io
+
 Licons is currently in beta version, no script only svg files, the idea is to create a script that automatically replaces `<i>` tags with `<svg>` from the icon files as follows:
 
 # Sample Usage
