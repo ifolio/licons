@@ -11,7 +11,7 @@ Licons is currently in beta version, no script only svg files, the idea is to cr
 <script src="https://cdn.cdn/path/js/licons.js"></script>
 ```
 
-2. Use the <i> tag to use the icon.
+2. Use the `<i>` tag to use the icon.
 
 ```html
 <i class="licons licons-paper"></i>
